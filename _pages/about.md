@@ -335,11 +335,11 @@ redirect_from:
                         	<h2>潘屹峰</h2>
                         	<p>鉴智科技</p>
                     	</div>
-                    	<div class="col"> 
-				<img src="./images/yusiyang.png"  width="100">
-                		<h2>Siyang</h2>
-                		<p>Cruise</p>
-            		</div>
+                	<div class="col"> 
+				<img src="./images/panyifeng.png"  width="100">
+                        	<h2>潘屹峰2</h2>
+                        	<p>鉴智科技</p>
+                    	</div>
 			<div class="col"> 
 				<img src="./images/shandan.png"  width="100">
                         	<h2>单单</h2>
