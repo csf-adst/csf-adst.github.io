@@ -234,7 +234,7 @@ redirect_from:
 ---
 
 <div>
-<h3>理事</h3>
+<h3>理事会成员</h3>
 	<div class="container">
         	<div class="row">
                 	<div class="col"> 
