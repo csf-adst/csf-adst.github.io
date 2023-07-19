@@ -234,7 +234,7 @@ redirect_from:
 ---
 
 <div>
-<h2>理事</h2>
+<h3>理事</h3>
 	<div class="container">
         	<div class="row">
                 	<div class="col"> 
@@ -257,19 +257,19 @@ redirect_from:
                         	<p>阿里巴巴 副主任</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.png"  width="150">
+				<img src="../images/maohongjun.jpg"  width="150">
                 		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
                 		<p>南开大学 副主任</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.png"  width="150">
+				<img src="../images/wangyibing.jpg"  width="150">
                         	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
                         	<p>浙江大学 副主任</p>
                     	</div>
                	</div>
 		<div class="row">
                     	<div class="col"> 
-				<img src="../images/hanxu.png"  width="150">
+				<img src="../images/hanxu.jpg"  width="150">
                         	<h2><a href="https://zuxin.me/">韩旭</a></h2>
                 		<p>文远知行 副主任</p>
                     	</div>
@@ -286,7 +286,7 @@ redirect_from:
 		</div>
 	</div>
  
-<h2>成员</h2>
+<h3>成员</h3>
         <div class="container">
         	<div class="row">
                 	<div class="col"> 
