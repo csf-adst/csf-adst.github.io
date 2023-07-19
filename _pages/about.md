@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Autonomous Driving Research Project - ADST"
+title: "中国仿真学会｜自动驾驶与仿真测试专委会"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,193 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <style>
+.container1 {
+	position: relative;
+	width: 100%;
+	max-width: 5000px;
+}
+        
+.modal-content {
+	border: 2px solid rgb(255, 187, 0);
+	background-color: rgb(0, 0, 0);
+	border-radius: 15px;
+}
+        
+.modal-header {
+	background-color: rgb(255, 187, 0);
+        border: 2px solid rgb(255, 187, 0);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+}
+        
+.modal-footer {
+	border-top: 0 none;
+}
+        
+.container1 img {
+        width: 100%;
+        height: auto;
+}
+        
+:target:before {
+        content: "";
+        display: block;
+        height: 100px;
+        margin: -90px 0 0;
+}
+        
+.container1 .btn {
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: rgb(255, 187, 0);
+        color: white;
+        font-size: 20px;
+        padding: 18px 280px;
+        border: none;
+        cursor: pointer;
+        border-radius: 6px;
+        text-align: center;
+}
+        
+.container1 .btn:hover {
+        background-color: black;
+}
+        
+.mx-a {}
+        
+.text-cen {}
+        
+.mb-6 {}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left:calc(-.5 * var(--bs-gutter-x))
+}
+
+.row > * {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top:var(--bs-gutter-y)
+}
+
+.col {
+    flex:1 0 0%
+}
+
+.row-cols-auto > * {
+    flex: 0 0 auto;
+    width:auto
+}
+
+.row-cols-1 > * {
+    flex: 0 0 auto;
+    width:100%
+}
+
+.row-cols-2 > * {
+    flex: 0 0 auto;
+    width:50%
+}
+
+.row-cols-3 > * {
+    flex: 0 0 auto;
+    width:33.3333333333%
+}
+
+.row-cols-4 > * {
+    flex: 0 0 auto;
+    width:25%
+}
+
+.row-cols-5 > * {
+    flex: 0 0 auto;
+    width:20%
+}
+
+.row-cols-6 > * {
+    flex: 0 0 auto;
+    width:16.6666666667%
+}
+
+.col-auto {
+    flex: 0 0 auto;
+    width:auto
+}
+
+.col-1 {
+    flex: 0 0 auto;
+    width:8.33333333%
+}
+
+.col-2 {
+    flex: 0 0 auto;
+    width:16.66666667%
+}
+
+.col-3 {
+    flex: 0 0 auto;
+    width:25%
+}
+
+.col-4 {
+    flex: 0 0 auto;
+    width:33.33333333%
+}
+
+.col-5 {
+    flex: 0 0 auto;
+    width:41.66666667%
+}
+
+.col-6 {
+    flex: 0 0 auto;
+    width:50%
+}
+
+.col-7 {
+    flex: 0 0 auto;
+    width:58.33333333%
+}
+
+.col-8 {
+    flex: 0 0 auto;
+    width:66.66666667%
+}
+
+.col-9 {
+    flex: 0 0 auto;
+    width:75%
+}
+
+.col-10 {
+    flex: 0 0 auto;
+    width:83.33333333%
+}
+
+.col-11 {
+    flex: 0 0 auto;
+    width:91.66666667%
+}
+
+.col-12 {
+    flex: 0 0 auto;
+    width:100%
+}
+
 .i-list[data-v-662c1668] {
 	width: 100%;
 	display: flex;
@@ -18,198 +204,345 @@ redirect_from:
 	margin-top: 20px
 }
 
-.i-list[data-v-662c1668]:first-child {
-	margin-top: 20px
-}
-
-.l-left[data-v-662c1668] {
-	width: 24%;
+.l-img[data-v-662c1668] {
+	width: 30%;
 	margin-right: 20px
 }
 
-.left-img[data-v-662c1668] {
+.img-bottom[data-v-662c1668] {
 	background: #fff;
 	width: 100%;
 	overflow: hidden
 }
-
-.left-img img[data-v-662c1668] {
-	width: 100%;
-	transition: .8s;
-	float: left
-}
-
-.left-img img[data-v-662c1668]:hover {
-	transform: scale(1.2)
-}
-
-.l-right[data-v-662c1668] {
-	width: 76%;
-	color: #4e4e4e;
-	padding: 0 20px 10px 20px;
-	box-sizing: border-box;
-	background: white
-}
-
-.r-top[data-v-662c1668] {
-	font-weight: 700;
-	line-height: 34px;
-	font-size: 20px
-}
-
-.r-cont[data-v-662c1668] {
-	margin-top: 10px;
-	line-height: 30px
-}
-
-.t-btn button[data-v-662c1668] {
-	border: 1px solid #003fa6;
-	border-radius: 3px;
-	margin: 10px 10px 0 0;
-	cursor: pointer;
-	padding: 6px 16px;
-	color: #003fa6
-}
-
-.small-title {
-	display: inline-block;
-	background: #d9edf7;
-	width: auto;
-	overflow: hidden;
-	font-weight: bold;
-	padding: 0 5px;
-	color: #070707
-}
 </style>
 
-Introduction
+
+简介
 ---
-<p>The <b>Autonomous Driving Simulation Tests </b>use a variety of simulation techniques to test autonomous driving technologies in multiple dimensions. Simulation testing is a basic key technology for autonomous driving R&D. Compared with the real road test, which has high cost, many restrictions and low efficiency, virtual simulation system can provide richer and more diverse static environments and continuous dynamic random traffic flow, which can effectively increase the frequency and density of high test/training value scenes within the limited virtual test mileage, and it has become the common demand for the research and development of automated driving systems by most domestic and foreign enterprises.</p>
-<p>Since its establishment, <b><font color='#ff6a00'>Alibaba Autonomous Driving Lab</font></b> has been committed to the development and testing of autonomous driving technology, with outstanding achievements. Currently, our research interests are as follows:</p>
-* <b>Autonomous driving data mining and clustering
-* <b>Simulation scenario modeling and generation
-* <b>Safety scenario analysis and reconstruction
-* <b>Fault injection and adversarial attacks
-* <b>Accelerated longtail scenario generation
-* <b>Interactive scenario generation
 
-We sincerely hope that more scholars and knowledgeable people will join our team and work together to promote the development of autonomous driving technology. If you are interested in this program, please contact <b><font color='#ff6a00'>kairui.ykr@alibaba-inc.com</font></b>.
+自动驾驶与仿真测试专委会（CSF-ADST）隶属中国仿真学会、挂靠清华大学，发起人吴建平系清华大学土木系教授和阿里巴巴自动驾驶仿真负责人。专委会成员由企业领军人和覆盖自动驾驶、仿真、软件测试领域的核心专家和学者构成。专委会是国内自动驾驶仿真和测试领域的权威组织，对促进行业发展起到了积极作用。专委会针对自动驾驶及仿真测试这一核心领域难题，进行自动驾驶及仿真测试理论、教育、科研及应用等多方面的专业学术交流、科研合作、技术推广、专业咨询工作等，主要包括: 
+- 组织学术会议、专题研讨会、竞赛等学术活动
+- 编辑出版专业相关期刊、书籍和传媒制品
+- 提供专业相关技术咨询，承办政府委托的专业任务
+- 对学术成果进行专业评价咨询，推广新理论、技术、方法
+- 组织开展国际学术交流和培训活动
+- 协助配合上级学会、部门制订相关标准、规范及技术指南文件
+- 对国家相关领域政策、发展规划和重大问题发挥咨询作用
+- 配合协助上级学会举办、开展为会员服务的相关事业 
 
-Cooperators
+成员
 ---
-Alibaba is working with renowned universities at home and abroad on research into autonomous driving technology. At present, the main members of the research team are as follows:
 
-![test_img](../images/xxtuanduijieshao.png)
-
-Tianchi Simulation Competition
----
-![test_img](../images/bisaihaibao.jpg)
-
-<div align=center><b>2022 Global "Future Vehicle" Simulation Competition</b> <a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745"> Video</a></div>
-> As the first high-speed autonomous driving simulation Challenge in China, the competetion relies on the powerful Ali Cloud infrastructure "Cloud efficient car training", attracted more than 1,500 teams to participate, with master and Bo accounting for 15% and C9 universities accounting for 56%. One of the top judges in the autonomous driving industry and a number of professors from prestigious universities.
-
-The Autopilot Simulation Competition provides multiple traffic test scenarios for the participating teams under the simulation environment, which cover common high-speed scenarios and include real accident scenarios with good typicality and generalization value. It mainly tests the decision-making ability of automatic driving vehicles in various complex traffic environments, and participants can train and evaluate the algorithmic ability of the intelligent body through the Ali simulation platform.
-
-<div align=center><img src="../images/tianchi.gif" alt="" data-v-662c1668="" width=600></div>
-
-<div align=center><a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a> Details</div>
-
-Industry Applications
----
-<b>First Highway Intersection HD-Map Dataset: Matrix Flyover</b>
-
-<div align=center><img src="../images/shujuji3.png" alt="" data-v-662c1668="" width=800 align=center></div>
-
-<a href="https://ntutangyun.github.io/highway-interchange-dataset-website/">Matrix Flyover</a>, a high precision map simulation dataset of high-speed hubs in China, was developed by Alibaba and Nanyang Technological in Singapore. In view of the large amount of testing required for 160,000 km expressway in China and the high cost of high-precision map generation, it is difficult to solve the problem of test generalization. The simulation map data set of high-speed hub is constructed based on simulation generation.
-
-At present, there are 1443 HD Maps, based on Hangzhou real data generalization generation, support mainstream formats (open drive & sumo & apollo), parameter sampling and generalization in line with highway junction design specifications. This Dataset filled the gap of the lack of real and high precision and generalization of hdmap in the industry, and provided the basis for the subsequent map-based construction of more abundant scene library and related automatic driving research. The relevant results were published in the robot top meeting ICRA 2023, [see details](https://arxiv.org/abs/2301.12738).
-
-<div align=center><img src="../images/xjishujiedu.gif" alt="" data-v-662c1668="" width=600 align=center></div>
-
-<div align=center>DAMO <a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">Talk</a></div>
-
-Highlighted Works
----
-<div class="i-list" data-v-662c1668="">
-  	<div class="l-left" data-v-662c1668="">
-    		<div class="left-img" data-v-662c1668="">
-			<img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
-    		</div>
-  	</div>
-  	<div class="l-right" data-v-662c1668="">
-    		<div class="r-top" data-v-662c1668="">
-      			GENERATE INTERCHANGES
-    		</div>
-    		<div class="r-cont" data-v-662c1668="">
-      			Yuan Zhou, Kairui Yang, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
-    		</div>
-    		<div class="t-btn" data-v-662c1668="">
-      			<a href="https://arxiv.org/abs/2301.12738"><button data-v-662c1668="">Paper</button></a>
-      			<a href="https://adst-lab.github.io//generate-interchanges/"><button data-v-662c1668="">Project</button></a>
-    		</div>
-  	</div>
-</div>
-<div class="i-list" data-v-662c1668="">
-	<div class="l-left" data-v-662c1668="">
-		<div class="left-img" data-v-662c1668="">
-			<img src="../images/homedongtu01.GIF" alt="" data-v-662c1668="">
-    		</div>
-  	</div>
-  	<div class="l-right" data-v-662c1668="">
-    		<div class="r-top" data-v-662c1668="">
-      			TOPOLOGY COVERAGE-GUIDED TESTING
-    		</div>
-    		<div class="r-cont" data-v-662c1668="">
-     			Y. Tang et al., “Route Coverage Testing for Autonomous Vehicles via Map Modeling,” 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 11450-11456
-    		</div>
-    		<div class="t-btn" data-v-662c1668="">
-      			<a href="https://ieeexplore.ieee.org/document/9560890?reason=concurrency"><button data-v-662c1668="">Paper</button></a>
-      			<a href="https://adst-lab.github.io/topology-coverage-guided/"><button data-v-662c1668="">Project</button></a>
-    		</div>
-  	</div>
-</div>
-<div class="i-list" data-v-662c1668="">
-	<div class="l-left" data-v-662c1668="">
-    		<div class="left-img" data-v-662c1668="">
-			<img src="../images/homedongtu02.GIF" alt="" data-v-662c1668="">
-    		</div>
-  	</div>
-  	<div class="l-right" data-v-662c1668="">
-    		<div class="r-top" data-v-662c1668="">
-      			COLLISOIN AVOIDANCE TESTING
-    		</div>
-    		<div class="r-cont" data-v-662c1668="">
-      			Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, “Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps,” 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 179-185  
-    		</div>
-    		<div class="t-btn" data-v-662c1668="">
-      			<a href="https://ieeexplore.ieee.org/document/9575536?reason=concurrency"><button data-v-662c1668="">Paper</button></a>
-      			
-      			<a href="https://adst-lab.github.io//collisoin-avoidance/"><button data-v-662c1668="">Project</button></a>
+<div>
+<h2>理事</h2>
+	<div class="container">
+        	<div class="row">
+                	<div class="col"> 
+				<img src="../images/wujianping.jpeg"  width="200">
+                		<h2><a href="https://hanjianghu.net/">吴建平</a></h2>
+                		<p>清华大学 主任</p>
+				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/xietao.jpeg"  width="200">
+                        	<h2><a href="https://jiachengzhuml.github.io/">谢涛</a></h2>
+                		<p>北京大学 副主任</p>
+				<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
+    			</div>
 		</div>
-    	</div>
+		<div class="row">
+            		<div class="col"> 
+				<img src="../images/jingwei.png"  width="150">
+                        	<h2><a href="https://zuxin.me/">敬巍</a></h2>
+                        	<p>阿里巴巴 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/maohongjun.png"  width="150">
+                		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
+                		<p>南开大学 副主任</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/wangyibing.png"  width="150">
+                        	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
+                        	<p>浙江大学 副主任</p>
+                    	</div>
+               	</div>
+		<div class="row">
+                    	<div class="col"> 
+				<img src="../images/hanxu.png"  width="150">
+                        	<h2><a href="https://zuxin.me/">韩旭</a></h2>
+                		<p>文远知行 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/yangkairui.png"  width="150">
+                		<h2><a href="https://wenhao.pub/">杨开睿</a></h2>
+                		<p>菜鸟自动驾驶实验室 秘书</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/huangling.png"  width="150">
+                        	<h2><a href="https://wenhao.pub/">黄玲</a></h2>
+                        	<p>华南理工大学 秘书</p>
+                    	</div>           
+		</div>
+	</div>
+ 
+<h2>成员</h2>
+        <div class="container">
+        	<div class="row">
+                	<div class="col"> 
+				<img src="../images/kongqizhi.png"  width="100">
+                        	<h2>孔旗帜</h2>
+                        	<p>九识智能</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/luolin.png"  width="100">
+                		<h2>罗琳</h2>
+                		<p>文远知行</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/xiatian.png"  width="100">
+                        	<h2>夏添</h2>
+                        	<p>白犀牛</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/shexiaoli.png"  width="100">
+                        	<h2>佘晓丽</h2>
+                        	<p>蔚来汽车</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/zhaoshuai.png"  width="100">
+                		<h2>赵帅</h2>
+                		<p>中汽智联</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/wangyibing.png"  width="100">
+                        	<h2>潘余曦</h2>
+                        	<p>深信科创</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/panyifeng.png"  width="100">
+                        	<h2>潘屹峰</h2>
+                        	<p>鉴智科技</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/yusiyang.png"  width="100">
+                		<h2>YuSiyang</h2>
+                		<p>Cruise</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/shandan.png"  width="100">
+                        	<h2>单单</h2>
+                        	<p>百度</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/sunhanjie.png"  width="100">
+                        	<h2>孙寒杰</h2>
+                        	<p>美团</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/fangtao.png"  width="100">
+                		<h2>方涛</h2>
+                		<p>Momenta</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/liuyunfu.png"  width="100">
+                        	<h2>刘云夫</h2>
+                        	<p>易控智驾</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/fuyiqun.png"  width="100">
+                        	<h2>傅轶群</h2>
+                        	<p>AutoX</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/lvbaogui.png"  width="100">
+                		<h2>吕宝贵</h2>
+                		<p>滴滴</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/zhou.png"  width="100">
+                        	<h2>George Zhou</h2>
+                        	<p>蔚来汽车</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/fengzongbao.png"  width="100">
+                        	<h2>冯宗宝</h2>
+                        	<p>理想汽车</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/zhoujianwen.png"  width="100">
+                		<h2>周剑文</h2>
+                		<p>小米</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/yexiaoqian.png"  width="100">
+                        	<h2>叶晓倩</h2>
+                        	<p>上汽大众</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/luoyonggang.png"  width="100">
+                        	<h2>罗咏刚</h2>
+                        	<p>长安汽车</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/moukangwei.png"  width="100">
+                		<h2>牟康伟</h2>
+                		<p>挚途科技</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/luanmingyong.png"  width="100">
+                        	<h2>栾铭湧</h2>
+                        	<p>中国重汽</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/huangdongze.png"  width="100">
+                        	<h2>黄栋泽</h2>
+                        	<p>零跑汽车</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/luofengshan.png"  width="100">
+                		<h2>罗丰山</h2>
+                		<p>东风汽车</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/wangruoyu.png"  width="100">
+                        	<h2>王若羽</h2>
+                        	<p>长城汽车</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/lilinhui.png"  width="100">
+                        	<h2>李琳辉</h2>
+                        	<p>大工汽车</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/luwenjie.png"  width="100">
+                		<h2>陆文杰</h2>
+                		<p>公安部无锡所</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/zhouwenhui.png"  width="100">
+                        	<h2>周文辉</h2>
+                        	<p>公安部安全中心</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/zhangmiao.png"  width="100">
+                        	<h2>张淼</h2>
+                        	<p>中汽中心</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/huangwuling.png"  width="100">
+                		<h2>黄武陵</h2>
+                		<p>中科院雄安</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/zhangtao.png"  width="100">
+                        	<h2>张涛</h2>
+                        	<p>快手</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/fengwei.png"  width="100">
+                        	<h2>冯伟</h2>
+                        	<p>天津大学</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/pengxin.png"  width="100">
+                		<h2>彭鑫</h2>
+                		<p>复旦大学</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/xiexiaoyuan.png"  width="100">
+                        	<h2>谢晓圆</h2>
+                        	<p>武汉大学</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/wanghong.png"  width="100">
+                        	<h2>王红</h2>
+                        	<p>清华大学</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/chenyin.png"  width="100">
+                		<h2>陈音</h2>
+                		<p>北汽研究院</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/lindi.png"  width="100">
+                        	<h2>林迪</h2>
+                        	<p>北京大学</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/linditj.png"  width="100">
+                        	<h2>林迪</h2>
+                        	<p>天津大学</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/guoqing.png"  width="100">
+                		<h2>郭青</h2>
+                		<p>新加坡科技局</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/lvchen.png"  width="100">
+                        	<h2>吕辰</h2>
+                        	<p>新加坡南洋理工</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/xiexiaofei.png"  width="100">
+                        	<h2>谢肖飞</h2>
+                        	<p>新加坡管理大学</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/zhouyuan.png"  width="100">
+                		<h2>周远</h2>
+                		<p>新加坡南洋理工</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/zhangronghui.png"  width="100">
+                        	<h2>张荣辉</h2>
+                        	<p>中山大学</p>
+                    	</div>
+		</div>
+		<div class="row">
+                	<div class="col"> 
+				<img src="../images/qigeqi.png"  width="100">
+                        	<h2>奇格奇</h2>
+                        	<p>北京交通大学</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/xuming.png"  width="100">
+                		<h2>许明</h2>
+                		<p>辽宁工程技术</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/jiangzhihao.png"  width="100">
+                        	<h2>江智浩</h2>
+                        	<p>上海科技大学</p>
+                    	</div>
+			<div class="col"> 
+				<img src="../images/liping.png"  width="100">
+                        	<h2>李平</h2>
+                        	<p>通达智源</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="../images/liwenbo.png"  width="100">
+                		<h2>李文博</h2>
+                		<p>北汽研究院</p>
+            		</div>
+			<div class="col"> 
+				<img src="../images/zhangjingyi.png"  width="100">
+                        	<h2>张静宜</h2>
+                        	<p>北汽研究院</p>
+                    	</div>
+		</div>
+	</div>
 </div>
-<div class="i-list" data-v-662c1668="">
-  	<div class="l-left" data-v-662c1668="">
-    		<div class="left-img" data-v-662c1668="">
-			<img src="../images/zuixinHD.jpg" alt="" data-v-662c1668="">
-    		</div>
-  	</div>
-  	<div class="l-right" data-v-662c1668="">
-    		<div class="r-top" data-v-662c1668="">
-      			HDMapNet
-    		</div>
-    		<div class="r-cont" data-v-662c1668="">
-      			This work is currently under review. More details will be released later.
-    		</div>
-    		<div class="t-btn" data-v-662c1668="">
-       			<a href="https://adst-lab.github.io//HD-map-generation/"><button data-v-662c1668="">Project</button></a>
-    		</div>
-  	</div>
-</div>
-
-
-
-
-
-
-
