@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "中国仿真学会｜自动驾驶与仿真测试专委会(CSF-ADST)4"
+title: "中国仿真学会｜自动驾驶与仿真测试专委会(CSF-ADST)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
