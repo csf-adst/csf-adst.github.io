@@ -353,7 +353,7 @@ redirect_from:
                 	<div class="col"> 
 				<img src="./images/fangtao.png"  width="100">
                 		<h2>方涛</h2>
-                		<p>Momen</p>
+                		<p>Momenta</p>
                     	</div>
 			<div class="col"> 
 				<img src="./images/liuyunfu.png"  width="100">
