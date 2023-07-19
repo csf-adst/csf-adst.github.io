@@ -81,13 +81,14 @@ analytics:
 # Site Author
 
 author:
-  name             : ""
-  avatar           : "logo.png"
-  bio              : 
-  employer         : ""
+  name             : "ADST"
+  avatar           : "touxiang.png"
+  bio              : "kairui.ykr@alibaba-inc.com"
+  location         : #"Location"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  #email            : ""
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
