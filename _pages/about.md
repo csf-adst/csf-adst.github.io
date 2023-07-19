@@ -226,7 +226,7 @@ redirect_from:
 </style>
 
 
-机构简介9
+机构简介10
 ---
 <p >
   &nbsp;&nbsp;&nbsp;&nbsp;自动驾驶与仿真测试专委会（CSF-ADST）隶属中国仿真学会、挂靠清华大学，发起人吴建平系清华大学土木系教授和阿里巴巴自动驾驶仿真负责人。专委会成员由企业领军人和覆盖自动驾驶、仿真、软件测试领域的核心专家和学者构成。专委会是国内自动驾驶仿真和测试领域的权威组织，对促进行业发展起到了积极作用。专委会针对自动驾驶及仿真测试这一核心领域难题，进行自动驾驶及仿真测试理论、教育、科研及应用等多方面的专业学术交流、科研合作、技术推广、专业咨询工作等，主要包括: </p>
@@ -248,7 +248,7 @@ redirect_from:
         	<div class="row">
                 	<div class="col"> 
 				<img src="./images/wujianping.png"  width="200">
-                		<h2><a href="[https://www.tsinghua.edu.cn/info/1166/93896.htm](https://www.civil.tsinghua.edu.cn/ce/info/1135/1873.htm)">吴建平</a></h2>
+                		<h2><a href="https://www.civil.tsinghua.edu.cn/ce/info/1135/1873.htm">吴建平</a></h2>
                 		<p>清华大学 主任</p>
 				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
                     	</div>
