@@ -98,7 +98,8 @@ redirect_from:
 }
 
 .col p h2{
-     text-align:center
+     text-align:center;
+     background-color: red
 }
 
 .row-cols-auto > * {
