@@ -337,7 +337,7 @@ redirect_from:
                     	</div>
                 	<div class="col"> 
 				<img src="./images/panyifeng.png"  width="100">
-                        	<h2>潘屹峰2</h2>
+                        	<h2>Siyang</h2>
                         	<p>鉴智科技</p>
                     	</div>
 			<div class="col"> 
@@ -350,11 +350,11 @@ redirect_from:
                         	<h2>孙寒杰</h2>
                         	<p>美团</p>
                     	</div>
-                    	<div class="col"> 
-				<img src="./images/fangtao.png"  width="100">
-                		<h2>方涛</h2>
-                		<p>Momenta</p>
-            		</div>
+                	<div class="col"> 
+				<img src="./images/panyifeng.png"  width="100">
+                        	<h2>潘屹峰3</h2>
+                        	<p>鉴智科技</p>
+                    	</div>
 			<div class="col"> 
 				<img src="./images/liuyunfu.png"  width="100">
                         	<h2>刘云夫</h2>
