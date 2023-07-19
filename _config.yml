@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page"
+title                    : "CSF-ADST"
 title_separator          : "-"
-name                     : &name "Karry"
+name                     : &name ""
 description              : &description "personal description"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karry Yang"
-  avatar           : "touxiang.png"
+  name             : ""
+  avatar           : ""
   bio              : 
   location         : 
-  employer         : "Alibaba Group"
+  employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kairui.ykr@alibaba-inc.com"
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
