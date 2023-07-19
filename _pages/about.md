@@ -253,40 +253,40 @@ redirect_from:
 		<div class="row">
             		<div class="col"> 
 				<img src="../images/jingwei.png"  width="150">
-                        	<h2><a href="https://zuxin.me/">敬巍</a></h2>
+                        	<h2>敬巍</h2>
                         	<p>阿里巴巴 副主任</p>
                     	</div>
                     	<div class="col"> 
 				<img src="../images/maohongjun.jpg"  width="150">
-                		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
+                		<h2>毛洪钧</h2>
                 		<p>南开大学 副主任</p>
             		</div>
 			<div class="col"> 
 				<img src="../images/wangyibing.jpg"  width="150">
-                        	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
+                        	<h2>王亦兵</h2>
                         	<p>浙江大学 副主任</p>
                     	</div>
                	</div>
 		<div class="row">
                     	<div class="col"> 
 				<img src="../images/hanxu.jpg"  width="150">
-                        	<h2><a href="https://zuxin.me/">韩旭</a></h2>
+                        	<h2>韩旭</h2>
                 		<p>文远知行 副主任</p>
                     	</div>
                     	<div class="col"> 
 				<img src="../images/yangkairui.png"  width="150">
-                		<h2><a href="https://wenhao.pub/">杨开睿</a></h2>
+                		<h2>杨开睿</h2>
                 		<p>菜鸟自动驾驶实验室 秘书</p>
                     	</div>
 			<div class="col"> 
 				<img src="../images/huangling.png"  width="150">
-                        	<h2><a href="https://wenhao.pub/">黄玲</a></h2>
+                        	<h2>黄玲</h2>
                         	<p>华南理工大学 秘书</p>
                     	</div>           
 		</div>
 	</div>
  
-<h3>成员</h3>
+<h3>其他成员</h3>
         <div class="container">
         	<div class="row">
                 	<div class="col"> 
