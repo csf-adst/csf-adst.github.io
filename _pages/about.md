@@ -97,6 +97,10 @@ redirect_from:
     flex:1 0 0%
 }
 
+.col p h2{
+     text-align:center;
+}
+
 .row-cols-auto > * {
     flex: 0 0 auto;
     width:auto
