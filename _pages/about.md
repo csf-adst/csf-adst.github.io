@@ -374,7 +374,7 @@ redirect_from:
             		</div>
 			<div class="col"> 
 				<img src="./images/zhou.png"  width="100">
-                        	<h2>George Zhou</h2>
+                        	<h2>George Z</h2>
                         	<p>蔚来汽车</p>
                     	</div>
 			<div class="col"> 
