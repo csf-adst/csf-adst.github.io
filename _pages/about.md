@@ -328,7 +328,7 @@ redirect_from:
                     	</div>
                     	<div class="col"> 
 				<img src="../images/yusiyang.png"  width="100">
-                		<h2>YuSiyang</h2>
+                		<h2>Siyang Yu</h2>
                 		<p>Cruise</p>
             		</div>
 			<div class="col"> 
@@ -494,7 +494,7 @@ redirect_from:
 			<div class="col"> 
 				<img src="../images/lvchen.png"  width="100">
                         	<h2>吕辰</h2>
-                        	<p>新加坡南洋理工</p>
+                        	<p>新加坡南洋理工大学</p>
                     	</div>
 			<div class="col"> 
 				<img src="../images/xiexiaofei.png"  width="100">
@@ -504,7 +504,7 @@ redirect_from:
                     	<div class="col"> 
 				<img src="../images/zhouyuan.png"  width="100">
                 		<h2>周远</h2>
-                		<p>新加坡南洋理工</p>
+                		<p>新加坡南洋理工大学</p>
             		</div>
 			<div class="col"> 
 				<img src="../images/zhangronghui.png"  width="100">
