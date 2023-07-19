@@ -354,7 +354,7 @@ redirect_from:
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/fuyiqun.png"  width="100">
+				<img src="../images/fuzhiqun.png"  width="100">
                         	<h2>傅轶群</h2>
                         	<p>AutoX</p>
                     	</div>
