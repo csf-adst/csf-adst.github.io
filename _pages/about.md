@@ -101,6 +101,10 @@ redirect_from:
      text-align:center;
      background-color: red
 }
+.col h2{
+     text-align:center;
+     background-color: green
+}
 
 .row-cols-auto > * {
     flex: 0 0 auto;
