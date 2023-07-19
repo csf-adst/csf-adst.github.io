@@ -98,7 +98,7 @@ redirect_from:
 }
 
 .col p h2{
-     text-align:center;
+     text-align:center
 }
 
 .row-cols-auto > * {
