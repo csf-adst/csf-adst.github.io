@@ -238,7 +238,7 @@ redirect_from:
 	<div class="container">
         	<div class="row">
                 	<div class="col"> 
-				<img src="./images/wujianping.jpeg"  width="200">
+				<img src="./images/wujianping.png"  width="200">
                 		<h2><a href="https://www.tsinghua.edu.cn/info/1166/93896.htm">吴建平</a></h2>
                 		<p>清华大学 主任</p>
 				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
