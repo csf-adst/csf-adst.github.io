@@ -315,7 +315,7 @@ redirect_from:
                 		<p>中汽智联</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.png"  width="100">
+				<img src="../images/panyuxi.png"  width="100">
                         	<h2>潘余曦</h2>
                         	<p>深信科创</p>
                     	</div>
