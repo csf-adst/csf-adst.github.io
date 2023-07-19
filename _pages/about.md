@@ -244,7 +244,7 @@ redirect_from:
 				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/xietao.jpeg"  width="200">
+				<img src="./images/xietao.jpeg"  width="200">
                         	<h2><a href="https://taoxiease.github.io">谢涛</a></h2>
                 		<p>北京大学 副主任</p>
 				<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
@@ -252,34 +252,34 @@ redirect_from:
 		</div>
 		<div class="row">
             		<div class="col"> 
-				<img src="../images/jingwei.png"  width="150">
+				<img src="./images/jingwei.png"  width="150">
                         	<h2>敬巍</h2>
                         	<p>阿里巴巴 副主任</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="150">
+				<img src="./images/maohongjun.jpg"  width="150">
                 		<h2>毛洪钧</h2>
                 		<p>南开大学 副主任</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="150">
+				<img src="./images/wangyibing.jpg"  width="150">
                         	<h2>王亦兵</h2>
                         	<p>浙江大学 副主任</p>
                     	</div>
                	</div>
 		<div class="row">
                     	<div class="col"> 
-				<img src="../images/hanxu.jpg"  width="150">
+				<img src="./images/hanxu.jpg"  width="150">
                         	<h2>韩旭</h2>
                 		<p>文远知行 副主任</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/yangkairui.png"  width="150">
+				<img src="./images/yangkairui.png"  width="150">
                 		<h2>杨开睿</h2>
                 		<p>菜鸟自动驾驶实验室 秘书</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/huangling.png"  width="150">
+				<img src="./images/huangling.png"  width="150">
                         	<h2>黄玲</h2>
                         	<p>华南理工大学 秘书</p>
                     	</div>           
@@ -290,256 +290,256 @@ redirect_from:
         <div class="container">
         	<div class="row">
                 	<div class="col"> 
-				<img src="../images/kongqizhi.png"  width="100">
+				<img src="./images/kongqizhi.png"  width="100">
                         	<h2>孔旗帜</h2>
                         	<p>九识智能</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/luolin.png"  width="100">
+				<img src="./images/luolin.png"  width="100">
                 		<h2>罗琳</h2>
                 		<p>文远知行</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/xiatian.png"  width="100">
+				<img src="./images/xiatian.png"  width="100">
                         	<h2>夏添</h2>
                         	<p>白犀牛</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/shexiaoli.png"  width="100">
+				<img src="./images/shexiaoli.png"  width="100">
                         	<h2>佘晓丽</h2>
                         	<p>蔚来汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/zhaoshuai.png"  width="100">
+				<img src="./images/zhaoshuai.png"  width="100">
                 		<h2>赵帅</h2>
                 		<p>中汽智联</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/panyuxi.png"  width="100">
+				<img src="./images/panyuxi.png"  width="100">
                         	<h2>潘余曦</h2>
                         	<p>深信科创</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/panyifeng.png"  width="100">
+				<img src="./images/panyifeng.png"  width="100">
                         	<h2>潘屹峰</h2>
                         	<p>鉴智科技</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/yusiyang.png"  width="100">
+				<img src="./images/yusiyang.png"  width="100">
                 		<h2>Siyang Yu</h2>
                 		<p>Cruise</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/shandan.png"  width="100">
+				<img src="./images/shandan.png"  width="100">
                         	<h2>单单</h2>
                         	<p>百度</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/sunhanjie.png"  width="100">
+				<img src="./images/sunhanjie.png"  width="100">
                         	<h2>孙寒杰</h2>
                         	<p>美团</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/fangtao.png"  width="100">
+				<img src="./images/fangtao.png"  width="100">
                 		<h2>方涛</h2>
                 		<p>Momenta</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/liuyunfu.png"  width="100">
+				<img src="./images/liuyunfu.png"  width="100">
                         	<h2>刘云夫</h2>
                         	<p>易控智驾</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/fuzhiqun.png"  width="100">
+				<img src="./images/fuzhiqun.png"  width="100">
                         	<h2>傅轶群</h2>
                         	<p>AutoX</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/lvbaogui.png"  width="100">
+				<img src="./images/lvbaogui.png"  width="100">
                 		<h2>吕宝贵</h2>
                 		<p>滴滴</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/zhou.png"  width="100">
+				<img src="./images/zhou.png"  width="100">
                         	<h2>George Zhou</h2>
                         	<p>蔚来汽车</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/fengzongbao.png"  width="100">
+				<img src="./images/fengzongbao.png"  width="100">
                         	<h2>冯宗宝</h2>
                         	<p>理想汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/zhoujianwen.png"  width="100">
+				<img src="./images/zhoujianwen.png"  width="100">
                 		<h2>周剑文</h2>
                 		<p>小米</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/yexiaoqian.png"  width="100">
+				<img src="./images/yexiaoqian.png"  width="100">
                         	<h2>叶晓倩</h2>
                         	<p>上汽大众</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/luoyonggang.png"  width="100">
+				<img src="./images/luoyonggang.png"  width="100">
                         	<h2>罗咏刚</h2>
                         	<p>长安汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/moukangwei.png"  width="100">
+				<img src="./images/moukangwei.png"  width="100">
                 		<h2>牟康伟</h2>
                 		<p>挚途科技</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/luanmingyong.png"  width="100">
+				<img src="./images/luanmingyong.png"  width="100">
                         	<h2>栾铭湧</h2>
                         	<p>中国重汽</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/huangdongze.png"  width="100">
+				<img src="./images/huangdongze.png"  width="100">
                         	<h2>黄栋泽</h2>
                         	<p>零跑汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/luofengshan.png"  width="100">
+				<img src="./images/luofengshan.png"  width="100">
                 		<h2>罗丰山</h2>
                 		<p>东风汽车</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangruoyu.png"  width="100">
+				<img src="./images/wangruoyu.png"  width="100">
                         	<h2>王若羽</h2>
                         	<p>长城汽车</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/lilinhui.png"  width="100">
+				<img src="./images/lilinhui.png"  width="100">
                         	<h2>李琳辉</h2>
                         	<p>大工汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/luwenjie.png"  width="100">
+				<img src="./images/luwenjie.png"  width="100">
                 		<h2>陆文杰</h2>
                 		<p>公安部无锡所</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/zhouwenhui.png"  width="100">
+				<img src="./images/zhouwenhui.png"  width="100">
                         	<h2>周文辉</h2>
                         	<p>公安部安全中心</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/zhangmiao.png"  width="100">
+				<img src="./images/zhangmiao.png"  width="100">
                         	<h2>张淼</h2>
                         	<p>中汽中心</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/huangwuling.png"  width="100">
+				<img src="./images/huangwuling.png"  width="100">
                 		<h2>黄武陵</h2>
                 		<p>中科院雄安</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/zhangtao.png"  width="100">
+				<img src="./images/zhangtao.png"  width="100">
                         	<h2>张涛</h2>
                         	<p>快手</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/fengwei.png"  width="100">
+				<img src="./images/fengwei.png"  width="100">
                         	<h2>冯伟</h2>
                         	<p>天津大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/pengxin.png"  width="100">
+				<img src="./images/pengxin.png"  width="100">
                 		<h2>彭鑫</h2>
                 		<p>复旦大学</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/xiexiaoyuan.png"  width="100">
+				<img src="./images/xiexiaoyuan.png"  width="100">
                         	<h2>谢晓圆</h2>
                         	<p>武汉大学</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/wanghong.png"  width="100">
+				<img src="./images/wanghong.png"  width="100">
                         	<h2>王红</h2>
                         	<p>清华大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/chenyin.png"  width="100">
+				<img src="./images/chenyin.png"  width="100">
                 		<h2>陈音</h2>
                 		<p>北汽研究院</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/lindibj.png"  width="100">
+				<img src="./images/lindibj.png"  width="100">
                         	<h2>林迪</h2>
                         	<p>北京大学</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/linditj.png"  width="100">
+				<img src="./images/linditj.png"  width="100">
                         	<h2>林迪</h2>
                         	<p>天津大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/guoqing.png"  width="100">
+				<img src="./images/guoqing.png"  width="100">
                 		<h2>郭青</h2>
                 		<p>新加坡科技局</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/lvchen.png"  width="100">
+				<img src="./images/lvchen.png"  width="100">
                         	<h2>吕辰</h2>
                         	<p>新加坡南洋理工大学</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/xiexiaofei.png"  width="100">
+				<img src="./images/xiexiaofei.png"  width="100">
                         	<h2>谢肖飞</h2>
                         	<p>新加坡管理大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/zhouyuan.png"  width="100">
+				<img src="./images/zhouyuan.png"  width="100">
                 		<h2>周远</h2>
                 		<p>新加坡南洋理工大学</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/zhangronghui.png"  width="100">
+				<img src="./images/zhangronghui.png"  width="100">
                         	<h2>张荣辉</h2>
                         	<p>中山大学</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/qigeqi.png"  width="100">
+				<img src="./images/qigeqi.png"  width="100">
                         	<h2>奇格奇</h2>
                         	<p>北京交通大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/xuming.png"  width="100">
+				<img src="./images/xuming.png"  width="100">
                 		<h2>许明</h2>
                 		<p>辽宁工程技术</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/jiangzhihao.png"  width="100">
+				<img src="./images/jiangzhihao.png"  width="100">
                         	<h2>江智浩</h2>
                         	<p>上海科技大学</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/liping.png"  width="100">
+				<img src="./images/liping.png"  width="100">
                         	<h2>李平</h2>
                         	<p>通达智源</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/liwenbo.png"  width="100">
+				<img src="./images/liwenbo.png"  width="100">
                 		<h2>李文博</h2>
                 		<p>北汽研究院</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/zhangjingyi.png"  width="100">
+				<img src="./images/zhangjingyi.png"  width="100">
                         	<h2>张静宜</h2>
                         	<p>北汽研究院</p>
                     	</div>
