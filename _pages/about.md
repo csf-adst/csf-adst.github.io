@@ -97,7 +97,7 @@ redirect_from:
     flex:1 0 0%
 }
 
-.col p h2{
+.col p{
      text-align:center;
      background-color: red
 }
