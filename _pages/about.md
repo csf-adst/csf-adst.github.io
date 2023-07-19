@@ -239,13 +239,13 @@ redirect_from:
         	<div class="row">
                 	<div class="col"> 
 				<img src="../images/wujianping.jpeg"  width="200">
-                		<h2><a href="https://hanjianghu.net/">吴建平</a></h2>
+                		<h2><a href="https://www.tsinghua.edu.cn/info/1166/93896.htm">吴建平</a></h2>
                 		<p>清华大学 主任</p>
 				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
                     	</div>
                     	<div class="col"> 
 				<img src="../images/xietao.jpeg"  width="200">
-                        	<h2><a href="https://jiachengzhuml.github.io/">谢涛</a></h2>
+                        	<h2><a href="https://taoxiease.github.io">谢涛</a></h2>
                 		<p>北京大学 副主任</p>
 				<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
     			</div>
