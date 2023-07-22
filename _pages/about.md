@@ -486,7 +486,7 @@ redirect_from:
             		</div>
 			<div class="col"> 
 				<img src="./images/lindibj.png"  width="100">
-                        	<h2>林迪</h2>
+                        	<h2>王迪</h2>
                         	<p>北京大学</p>
                     	</div>
 		</div>
