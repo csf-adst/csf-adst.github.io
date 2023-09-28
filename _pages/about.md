@@ -1,4 +1,4 @@
----
+![image](https://github.com/csf-adst/csf-adst.github.io/assets/139945491/328acfc1-4e1c-409c-8345-ea6eca338165)![image](https://github.com/csf-adst/csf-adst.github.io/assets/139945491/d3d41494-ca98-4de3-9868-bcb85aa26427)---
 permalink: /
 title: "中国仿真学会｜自动驾驶与仿真测试专委会(CSF-ADST)"
 excerpt: "About me"
@@ -261,20 +261,20 @@ redirect_from:
     			</div>
 		</div>
 		<div class="row">
+                    	<div class="col"> 
+				<img src="./images/wuxinyu.jpg"  width="150">
+                		<h2>吴志新</h2>
+                		<p>中汽中心 副主任</p>
+            		</div>
+			<div class="col"> 
+				<img src="./images/zhangxiaoyu.jpg"  width="150">
+                        	<h2>张晓宇</h2>
+                        	<p>长安汽车 副主任</p>
+                    	</div>
             		<div class="col"> 
 				<img src="./images/jingwei.png"  width="150">
                         	<h2>敬巍</h2>
                         	<p>阿里巴巴 副主任</p>
-                    	</div>
-                    	<div class="col"> 
-				<img src="./images/maohongjun.jpg"  width="150">
-                		<h2>毛洪钧</h2>
-                		<p>南开大学 副主任</p>
-            		</div>
-			<div class="col"> 
-				<img src="./images/wangyibing.jpg"  width="150">
-                        	<h2>王亦兵</h2>
-                        	<p>浙江大学 副主任</p>
                     	</div>
                	</div>
 		<div class="row">
