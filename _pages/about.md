@@ -1,6 +1,6 @@
 ![image](https://github.com/csf-adst/csf-adst.github.io/assets/139945491/328acfc1-4e1c-409c-8345-ea6eca338165)![image](https://github.com/csf-adst/csf-adst.github.io/assets/139945491/d3d41494-ca98-4de3-9868-bcb85aa26427)---
 permalink: /
-title: "中国仿真学会｜自动驾驶与仿真测试专委会(CSF-ADST)"
+title: "中国仿真学会｜自动驾驶与仿真测试专委会(CSF-ADST)1"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
