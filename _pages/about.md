@@ -262,12 +262,12 @@ redirect_from:
 		</div>
 		<div class="row">
                     	<div class="col"> 
-				<img src="./images/wuxinyu.jpg"  width="150">
+				<img src="./images/wuxinyu.png"  width="150">
                 		<h2>吴志新</h2>
                 		<p>中汽中心 副主任</p>
             		</div>
 			<div class="col"> 
-				<img src="./images/zhangxiaoyu.jpg"  width="150">
+				<img src="./images/zhangxiaoyu.png"  width="150">
                         	<h2>张晓宇</h2>
                         	<p>长安汽车 副主任</p>
                     	</div>
